@@ -9,4 +9,6 @@
 
 📫 Email: cxaqhq@gmail.com
 
-🎉 CVE: CVE-2021-43471  
+CVE-2021-43471    
+CVE-2022-2666   
+CVE-2022-2667   
